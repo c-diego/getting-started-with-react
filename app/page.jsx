@@ -1,3 +1,12 @@
+"use client";
+
+import Game from "./components/game";
+import "./global.css";
+
 export default function Page() {
-  return <h1>Hello, Next.js!</h1>
+  return (
+    <div>
+      <Game />
+    </div>
+  );
 }
