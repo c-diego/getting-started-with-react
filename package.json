@@ -1,9 +1,9 @@
 {
-  "name": "getting-started",
+  "name": "getting-started-with-react",
   "version": "0.0.2",
   "description": "Getting Started With React",
   "main": "index.js",
-  "repository": "git@github.com:c-diego/tic_tac_toe.git",
+  "repository": "git@github.com:c-diego/getting-started-with-react.git",
   "author": "c-diego",
   "license": "MIT",
   "scripts": {
